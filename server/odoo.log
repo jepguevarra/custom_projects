@@ -1,0 +1,7 @@
+2022-07-17 12:45:49,247 8952 INFO ? odoo: Odoo version 15.0-20220717 
+2022-07-17 12:45:49,247 8952 INFO ? odoo: Using configuration file at C:\Odoo15\server\odoo.conf 
+2022-07-17 12:45:49,247 8952 INFO ? odoo: addons paths: ['C:\\Odoo15\\server\\odoo\\addons', 'c:\\users\\admin\\appdata\\local\\openerp s.a\\odoo\\addons\\15.0', 'c:\\odoo15\\server\\odoo\\addons'] 
+2022-07-17 12:45:49,247 8952 INFO ? odoo: database: openpg@localhost:5432 
+2022-07-17 12:45:50,718 8952 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at C:\Odoo15\thirdparty\wkhtmltopdf.exe 
+2022-07-17 12:45:52,265 8952 INFO ? odoo.service.server: Initiating shutdown 
+2022-07-17 12:45:52,265 8952 INFO ? odoo.service.server: Hit CTRL-C again or send a second signal to force the shutdown. 
